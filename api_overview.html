@@ -7,6 +7,10 @@ Our customer facing API is REST. Which means it is stateless. Therefore, authent
 
 Test your Motors@Work authentication by sending a GET request to https://www.motorsatwork.com/api/1.0/rest/test with HTTP basic access authentication included.
 
+If successful, you will receive a json response:
+    {"message":"Way to go, you are authenticated!"}
+
+
     private void sendGet(String user, String password) throws Exception {
         String userEncryption = String.format("%s:%s",user,password);
         userEncryption="Basic "+Base64.getEncoder().encodeToString(userEncryption.getBytes());
