@@ -1,24 +1,21 @@
 ---
-title: This is my title
-layout: post
+title: Motors@Work API Overview - Java Authentication Example
+layout: helpfile
+categories: ['api']
+permalink: api-overview-java-authentication/
+sequence: 2
+tags:
+- api
 ---
 
-Connect with the Motors@Work API  Motors@Work - a JSON-based RESTful API.
+##Send a request to Motors@Work, Java example
 
-The Motors@Work API allows you to send motor and motor based system readings to the Motors@Work analytics engine.
-
-First order of business - authentication.
-Our customer facing API is REST. Which means it is stateless. Therefore, authentication needs to be sent with every request. We require HTTP basic access authentication to be included with each request and each request must be made over HTTPS.
-
-Test your Motors@Work authentication by sending a GET request to https://www.motorsatwork.com/api/1.0/rest/test with HTTP basic access authentication included.
-
-If successful, you will receive a json response:
-    {"message":"Way to go, you are authenticated!"}
-
-
+The following code shows how to call the Motors@Work authentication endpoint using Java and basic authentication.
+{% highlight java%}
     private void sendGet(String user, String password) throws Exception {
         String userEncryption = String.format("%s:%s",user,password);
-        userEncryption="Basic "+Base64.getEncoder().encodeToString(userEncryption.getBytes());
+        userEncryption="Basic "+Base64.getEncoder()
+            .encodeToString(userEncryption.getBytes());
 
         String url = "https://www.motorsatwork.com/api/1.0/rest/test";
 
@@ -34,7 +31,7 @@ If successful, you will receive a json response:
         System.out.println("Response Code : " + responseCode);
 
         BufferedReader in = new BufferedReader(
-                new InputStreamReader(con.getInputStream()));
+            new InputStreamReader(con.getInputStream()));
         String inputLine;
         StringBuffer response = new StringBuffer();
 
@@ -47,3 +44,4 @@ If successful, you will receive a json response:
         System.out.println(response.toString());
 
     }
+{% endhighlight %}
