@@ -12,6 +12,7 @@ tags:
 ###Help Contents
 * [API Overview](api-overview) - Information on using Motors@Work REST-ful APIs
 * [My Motors](my-motors) - Using motor inventory list functionality
+* [Password Reset](password-reset) - How to reset your Motors@Work password
 
 ###Support and Contact Info
 For issues or questions, email <support@motorsatwork.com>
