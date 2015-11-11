@@ -1,5 +1,5 @@
 ---
-title: Motors@Work Motor Measurement: Power Factor
+title: Motors@Work Motor Measurement - Power Factor
 layout: helpfile
 categories: ['motor-measurement']
 permalink: motor-measurement-power-factor/
