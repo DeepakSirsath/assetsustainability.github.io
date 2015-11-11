@@ -9,7 +9,7 @@ tags:
 ---
 ## Motor Measurement: Power Factor
 
-Power Factor is a measurement that can be taken by for a motor.
+Power Factor is a type of [measurement that can be taken for a motor](/motor-measurement).
 
 Motors@Work considers low power factor conditions as a priority 1 alert.  Motors@Work always considers the absolute value of the power factor.
 
