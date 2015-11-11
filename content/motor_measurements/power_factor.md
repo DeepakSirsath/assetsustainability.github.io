@@ -25,6 +25,6 @@ Automated readings may produce skewed power factor readings while a motor is
 starting up.  For that reason, Motors@Work allows users to set a threshold
 for the number of readings that will create a priority 1 alert.
 
-To change the reading, open the Setup | Settings page.  Find the 'Consecutive
+To change the reading, open the Setup \| Settings page.  Find the 'Consecutive
 Low Power Factor Trigger' setting and change as necessary.  The default value is 1
 which means each low power factor reading creates a priority 1 alert.
