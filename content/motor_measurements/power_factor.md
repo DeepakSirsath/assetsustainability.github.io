@@ -2,7 +2,7 @@
 title: Motors@Work Motor Measurement: Power Factor
 layout: helpfile
 categories: ['motor-measurement']
-permalink: motor-measurement/power-factor
+permalink: motor-measurement-power-factor
 sequence: 1
 tags:
 - motor-measurement
