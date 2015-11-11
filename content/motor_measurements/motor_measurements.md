@@ -11,7 +11,7 @@ tags:
 
 Motor measurements drive much of the analysis in Motors@Work.  When you enter a motor measurement, calculations are performed behind the scenes to alert you if your motor shows signs of inefficiency.
 
-###Meaurement types
+###Measurement types
 For more information choose one of the measurement types.
 
 - [Power Factor](/motor-measurement-power-factor)
