@@ -9,7 +9,7 @@ tags:
 ---
 ## Low Power Factor
 
-Motors@Work creates alerts when [measurements](/motor-measurement) for your motor's [power factor](/motor-measurement-power-factor) is below a certain threshold.  The default threshold is .95, but can be overridden through a [Motors@Work setting](/motor-measurement-power-factor/#PowerFactorAlertThreshold).
+Motors@Work creates alerts when a [measurement](/motor-measurement) for your motor's [power factor](/motor-measurement-power-factor) is below a certain threshold.  The default threshold is .95, but can be overridden through a [Motors@Work setting](/motor-measurement-power-factor/#PowerFactorAlertThreshold).
 
 When a motor has a low power factor, it may be accompanied by a large voltage drop and large line losses.  This will cause the motor or system to run at low efficiency due to high magnetic excitation.
 
