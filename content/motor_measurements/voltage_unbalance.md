@@ -13,6 +13,8 @@ Voltage unbalance degrades the performance and shortens the life of a three-phas
 
 It is recommended that voltage unbalances at the motor terminals do not exceed 1%. Unbalances that exceed 1% require derating of the motor, per NEMA MG-1-2011, and will void most manufacturers’ warranties.
 
+Motors@Work calculates your motor's voltage unbalance when you enter [measurements](/motor-measurement) for the three different [voltages](/motor-measurement-voltage) between the terminals of the three-phase motor.
+
 ### Some of the more common causes of unbalanced voltages are:
 - Faulty operation of power factor correction equipment
 - Unbalanced or unstable utility supply
