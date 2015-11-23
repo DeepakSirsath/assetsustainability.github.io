@@ -9,9 +9,8 @@ tags:
 ---
 ## Low Power Factor
 
-Motors@Work creates alerts when [measurements](/motor-measurement) for your motor's power factor is below a certain threshold.  The default threshold is .95, but can be overridden through a  [Motors@Work setting](/motor-measurement-power-factor/#PowerFactorAlertThreshold).
+Motors@Work creates alerts when [measurements](/motor-measurement) for your motor's [power factor](/motor-measurement-power-factor) is below a certain threshold.  The default threshold is .95, but can be overridden through a [Motors@Work setting](/motor-measurement-power-factor/#PowerFactorAlertThreshold).
 
-###External Links
-- According to [www.electricaltechnology.org](http://www.electricaltechnology.org/2013/10/causes-of-low-power-factor.html), the main cause of low power factor is Inductive Load.  
-- There are many [reasons to correct a low power factor condition](http://www.electricaltechnology.org/2013/08/disadvantages-of-low-power-factor.html).
-- [Motor efficiency depends upon power factor (pdf)](http://www.microsemi.com/document-portal/doc_view/131575-motor-powerfactor-wp)
+When a motor has a low power factor, it may be accompanied by a large voltage drop and large line losses.  This will cause the motor or system to run at low efficiency due to high magnetic excitation.
+
+Because reactive power still requires capacity on the system even though it doesn’t do any useful work, some utilities charge more for it.  Poor power factor is also an indicator of motor inefficiency.  Extremely low power factor could be an indicator of three phase power imbalance, which can be due to improper wiring.  Capacitor correction can help the power factor, but may mask the underlying problem with the motor system.
