@@ -13,7 +13,7 @@ Power Factor is the ratio of real power to apparent power for an electrical syst
 
 Motors@Work uses power factor [measurements](/motor-measurement) in load and efficiency analytics.
 
-Motors@Work considers low power factor conditions as a priority 1 alert.  Motors@Work always considers the absolute value of the power factor.
+Motors@Work generated priority 1 alerts for [low power factor](/low-power-factor) conditions.  Motors@Work always considers the absolute value of the power factor.
 
 ###Low Power Factor Settings
 
