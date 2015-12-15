@@ -15,6 +15,8 @@ Motors@Work uses power factor [measurements](/motor-measurement) in load and eff
 
 Motors@Work generated priority 1 alerts for [low power factor](/low-power-factor) conditions.  Motors@Work always considers the absolute value of the power factor.
 
+For motor load calculation, power factor must be greater than 1.  If less than one, Motors@Work considers the reading to be power factor from instrumentation.
+
 ###Low Power Factor Settings
 
 #### <a name="PowerFactorAlertThreshold"></a> Power Factor Alert Threshold
