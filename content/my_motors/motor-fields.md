@@ -10,7 +10,7 @@ tags:
 ## Available Fields for Motors
 
 | Field Name    | Json Property Name | Description |
-| -------------- |:------------------:| -----------:|
+| -------------- |:------------------:| -----------|
 | Motor Type     | motorType          | NEMA Type for motor. |   
 | Description    | description        | Description of motor. |
 | Facility       | facility           | Facility to which motor is assigned.  Set up facilities using the Facilities screen. |
@@ -45,7 +45,7 @@ tags:
 | Efficiency UOM | efficiencyUOM | Unit of measure for Rated efficiency. (%)  |
 | Service factor | serviceFactor |  |
 | Temperature Rise | temperatureRise |  |
-| Temperature Rise UOM | temperatureRiseUOM | Unit of measure for  |
+| Temperature Rise UOM | temperatureRiseUOM | Unit of measure for temperature rise. |
 | Size | rawSize |  |
 | Rated Speed | rawSpeed |  |
 | KW | kw |  |
