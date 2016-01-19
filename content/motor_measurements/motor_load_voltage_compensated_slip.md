@@ -9,7 +9,7 @@ tags:
 ---
 ## Voltage Compensated Slip
 
-If the load on a motor cannot be determined using kW Ratio – Power based,
+If the [motor load](/motor-load) cannot be determined using kW Ratio – Power based,
 kW Ratio – Voltage based, or Voltage Compensated Amps Ratio strategies,
 Motors@Work will attempt to calculate the motor load using Voltage Compensated
 Slip.
