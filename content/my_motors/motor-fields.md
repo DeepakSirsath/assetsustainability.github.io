@@ -11,7 +11,7 @@ tags:
 
 | Field Name    | Json Property Name | Description |
 | -------------- |:------------------:| -----------|
-| Motor Type     | motorType          | NEMA Type for motor. |   
+| Motor Type     | motorType          | NEMA Type for motor... |   
 | Description    | description        | Description of motor. |
 | Facility       | facility           | Facility to which motor is assigned.  Set up facilities using the Facilities screen. |
 | Department     | department         | Department to which motor is assigned.  Set up departments using the Departments screen. |
