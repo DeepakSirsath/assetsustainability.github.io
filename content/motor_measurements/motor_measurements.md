@@ -27,3 +27,4 @@ Motors@Work allows entry of the following readings from a motor.
 - Insulation Resistance
 - Vibration
 - Surge/Motor Circuit
+- Some New Text
