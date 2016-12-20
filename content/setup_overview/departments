@@ -18,12 +18,6 @@ On the Departments screen you can enter the departments for a facility. The depa
 
 **Out of Service** :  You can select or unselect checkbox depending on if the department is currently operational. When this field is checked this particular department will not show up on any other screens.
 
-**Operating Schedule from** : if you select a facility then associated Operating schedule defaulted is from that facility, if it is not there then it is defaulted from company profile.
+**Primary Contact** :  Select the contact. This is the first person or entity to contact by the User in case of any update.
 
-**Operating Schedule** : Select the operating schedule for each department. The operating schedule will form the basis for energy consumption calculations.
-
-**Yearly Operating Hours** : This field is automatically populated dependent on operating schedule. 
-
-**Primary Contact** :  Select the contact. This is the first person or entity to contact by the User in case of any update. 
-
-**Secondary Contact** : Select the contact. This is the person or entity to be contacted by the User if primary contact is unable to be reached.  
+**Secondary Contact** : Select the contact. This is the person or entity to be contacted by the User if primary contact is unable to be reached.
