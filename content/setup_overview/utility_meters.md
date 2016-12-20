@@ -27,3 +27,4 @@ On the Utility Meters screen you can enter the utility meters for a facility of 
 **Reference** : Enter extra details about meter here if needed. For example utility meter type; interval meter, smart meter, accumulation meter, demand meter.
 
 **Out of service** : You can select or unselect checkbox depending on if the utility meter is currently being used. When this field is checked then this particular utility meter will not show up on any other screens.
+
