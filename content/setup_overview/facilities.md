@@ -49,5 +49,3 @@ On the Facilities screen you can enter the facilities that belong to the company
 **Recommend Downsize** : If you select Recommend Downsize the system will also search the Catalog for replacement motors with a smaller size during a detailed analysis. For example, if you have a 100 hp motor with a load of only 40% than possibly a 75 hp motor could also be used as an alternative. If unselected the search for a motor with a smaller size will be omitted. 
 
 **Maximum load for downsize** : If Recommend Downsize is selected the system will calculate the expected load for any alternative downsized catalog motor. If the calculated load is greater than the value you entered for Maximum load for downsize, than that alternative motor will not be considered. 
-
-**Time Zone** : Select the respective time zone for the facility depending on its location from Dropdown list by clicking on it.
