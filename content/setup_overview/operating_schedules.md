@@ -8,7 +8,7 @@ tags:
 - operating-schedules
 ---
 
-Operating Schedules
+## **Operating Schedules**
 
 On the Operating Schedules you can enter operating schedules for a company. These schedules can then be associated to the company, facility, department and process entities in the tree of facilities, departments and processes. Ultimately the operating schedule is assigned to a motor and will form the basis for energy consumption calculations. 
 
