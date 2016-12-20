@@ -16,4 +16,4 @@ On the Operating Schedules you can enter operating schedules for a company. Thes
 
 **Out of service** : You can select or unselect checkbox depending on if the operating schedule is currently being used.  When this field is checked then this particular Operating Schedule will not show on any other screen.
 
-**Operating Schedule (detail)** : Enter the daily (day of the week) start and end times of operation in hours and minutes. User should also add how many months in the year are following this schedule. There is an option to copy each day’s schedule for user convenience. Note: Detail tab is accessed by hi-liting specific Operating Schedule in grid.
+**Operating Schedule (Detail)** : Enter the daily (day of the week) start and end times of operation in hours and minutes. User should also add how many months in the year are following this schedule. There is an option to copy each day’s schedule for user convenience. Note: Detail tab is accessed by hi-liting specific Operating Schedule in grid.
