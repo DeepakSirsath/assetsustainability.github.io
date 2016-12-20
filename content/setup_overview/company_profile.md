@@ -1,7 +1,7 @@
 ---
 title: Motors@Work Setup Overview
 layout: helpfile
-categories: ['company-profile']
+categories: ['setup-overview']
 permalink: company-profile/
 sequence: 1
 tags:
