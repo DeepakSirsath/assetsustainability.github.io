@@ -1,11 +1,11 @@
 ---
 title: Motors@Work Setup Overview
 layout: helpfile
-categories: ['company_profile']
-permalink: company_profile/
+categories: ['company-profile']
+permalink: company-profile/
 sequence: 1
 tags:
-- company_profile
+- company-profile
 ---
 
 ## **Company Profile**
