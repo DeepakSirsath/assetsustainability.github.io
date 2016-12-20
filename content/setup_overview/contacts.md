@@ -10,7 +10,7 @@ tags:
 
 ## **Contacts**
 
-On the Contacts screen you can enter and maintain contacts. The Contacts are internal or External and can be associated with various entities like Companies, Facilities and Utility Providers.
+## On the Contacts screen you can enter and maintain contacts. The Contacts are internal or External and can be associated with various entities like Companies, Facilities and Utility Providers.
 
 **First Name** :  Enter personal or given name here.
 
