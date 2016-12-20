@@ -1,7 +1,9 @@
 
+## Company Profile
+
 On the Company Profile screen you can enter the company related data. The company is the highest logical entity in the tree of facilities, departments and processes. Data like operating schedules and utility rates default from this level to all lower levels, unless on any of the lower levels a different selection is made.
 
-# Name: Enter the name of your company.
+Name: Enter the name of your company.
 
 Address 1:  Enter the address of the company. User enters Street address, P.O. box number, c/o, etc.
 
