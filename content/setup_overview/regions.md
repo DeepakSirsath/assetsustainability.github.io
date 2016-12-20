@@ -17,6 +17,7 @@ On the Regions you can enter regions. Regions are used to define a group of coun
 **Out of service** : You can select or unselect checkbox depending on if the Region are currently being used.  When this field is checked then this particular Region will not show on any other screen.
 
 
+
 ## **Countries for Regions (Tab)**
 
 On the Countries tab of the Regions screen the OEM user can enter and maintain countries that belong to a Region. Countries can be added or deleted.
