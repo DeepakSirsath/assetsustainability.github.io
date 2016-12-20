@@ -1,29 +1,32 @@
+---
+title: Motors@Work Setup Overview
+layout: helpfile
+categories: ['setup-overview']
+permalink: company-profile/
+sequence: 1
+tags:
+- company-profile
+---
 
-
-
-
-
-
-
-
+## **Company Profile**
 
 On the Facilities screen you can enter the facilities that belong to the company. The facility is the actual site or location where a operating process takes place and is directly under the company in the tree of company, facilities, departments and processes.
 
-Name: Enter the facility name here. This name should be unique for every facility. You will find the facility reflected throughout Motors@Work, e.g. in Department, Processes, Utility Meter, Utility Bills, My Motors, Motor Evaluation, My Pumps.
+**Name** : Enter the facility name here. This name should be unique for every facility. You will find the facility reflected throughout Motors@Work, e.g. in Department, Processes, Utility Meter, Utility Bills, My Motors, Motor Evaluation, My Pumps.
 
-Address 1: This and the next few fields show the address of the facility. Enter the street address or P.O. Box number.
+**Address 1**: This and the next few fields show the address of the facility. Enter the street address or P.O. Box number.
 
-Address 2: Enters the building number, suite number, floor, etc. (Address continuation)
+**Address 2** : Enters the building number, suite number, floor, etc. (Address continuation)
 
-City:  Enter the name of the city in the text box. (Address continuation)
+**City** :  Enter the name of the city in the text box. (Address continuation)
 
-Zip Code: Enter the zip code in 5+4 format (nine-digit zip code). (Address continuation)
+**Zip Code** : Enter the zip code in 5+4 format (nine-digit zip code). (Address continuation)
 
-Country:  Select country. (Address continuation) 
+**Country** :  Select country. (Address continuation) 
 
-State: Select state. (Address continuation)
+**State** : Select state. (Address continuation)
 
-Payback Period:  The length of time in years required for an investment to recover its initial outlay in terms of profits or savings. Refers to the time required to recoup the funds expended in an investment. Input years in the format 1.5 yrs.
+**Payback Period** :  The length of time in years required for an investment to recover its initial outlay in terms of profits or savings. Refers to the time required to recoup the funds expended in an investment. Input years in the format 1.5 yrs.
 
 Language: It is the system of communication used by a country. User selects a language from the list by clicking on Dropdown list.
 
