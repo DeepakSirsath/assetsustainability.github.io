@@ -124,8 +124,60 @@ tags:
 
 **lbCO2e Emitted** : lbCO2e Emitted = Electricity Consumed (kWh) x Emission Factor (lbCO2e/kWh) 
 
-**Length of pipe** : The length of piping in the pumping system in feet or kilometers.  This can be determined from system drawings or estimated.  
+**Length of pipe** : The length of piping in the pumping system in feet or kilometers. This can be determined from system drawings or estimated.  
 
+**Load Factor (Utility Bill)** : Load Factor is the ratio between average demand and peak (or metered) demand and is commonly calculated by billing period. Load factor analysis of monthly Utility Bill can inform user whether they should focus on reducing energy consumption or TOU demand
+
+**Load factor (Motor)** : Nameplate code for Load Factor.  Load Factor is a measure of the ratio between a motor’s operating output and its design output. For example, a 10-horsepower motor driving a 7.5-horsepower load has a 75 percent load factor. 
+
+**Locked Rotor Amps (CODE)** : When AC motors are started with full voltage (Across-the-Line Starting), they draw line amperage 300% to 600% greater than their full load running current. The magnitude of the “inrush current” (also called locked rotor amps or LRA) is determined by motor horsepower and design characteristics.
+
+Manufacturer:  Motor manufacturer’s company name. The manufacturers with commercially available motors are included in the Motors@Work database. 
+
+Meter (Utility): A Meter Point Reference Number is a unique number assigned to every single electricity connection and meter.  The meter number is very important because it allows to track exactly where each connection on the electricity network is located (no matter who the electricity supplier is).  The meter number is prominently displayed on the electricity bills from the Supplier.  
+
+Model name: The name given by the manufacturer. If no specific name is provided, it is listed as “Standard.” 
+
+Motor Loss: Motor Loss (%) = 1 - Motor Efficiency (%)
+
+Motor Portfolio:  Sum of all motors expense for a specific month.  Individual Motor Expense = (Motor (HP) * .7456 * hrs. (monthly operating schedule) * $ (Utility Rate) / efficiency) 
+
+Motor Shaft Power: This is the mechanical power available at the output shaft of the motor; it is equal to the electrical power consumed less the motor losses (such as motor winding losses, motor inertia etc.).  It is calculated automatically using the formula: Motor Shaft Power (kW) = Electrical Power Consumed (kW) x Motor Efficiency (%).
+
+**My Motor Efficiency** : My Motor Efficiency =100 -((Nameplate Efficiency - Motor Actual Efficiency)/Nameplate Efficiency).
+
+**NEMA (National Electrical Manufacturers Association)** : A trade organization of motor manufacturers. NEMA sets standards and publishes information used extensively in the motor industry.
+
+**NEMA Design Types** : NEMA (National Electrical Manufacturers Association) designs have unique speed-torque-slip relationships - making them suited for different type of applications.
+
+1. NEMA design A:
+- Maximum 5% slip
+- High to medium starting current
+- Normal locked rotor torque
+- Normal breakdown torque
+- Suited for a broad variety of applications - like fans and pumps
+
+2. NEMA design B:
+- Maximum 5% slip
+- Low starting current
+- High locked rotor torque
+- Normal breakdown torque
+- Suited for a broad variety of applications, normal starting torque - common in HVAC application with fans, blowers and pumps
+
+3. NEMA design C:
+- Maximum 5% slip
+- Low starting current
+- High locked rotor torque
+- Normal breakdown torque
+- Suited for equipment with high inertia starts - like positive displacement pumps
+
+4. NEMA design D:
+- Maximum 5-13% slip
+- Low starting current
+- Very high locked rotor torque
+- Suited for equipment with very high inertia starts - like cranes, hoists etc.
+
+**Nominal efficiency** : An average value based on testing of a population of motors per IEEE 112-B. Since small variations in actual efficiencies are statistically expected, some motors will test a little higher or lower than their nominal ratings. NEMA has established guaranteed minimum efficiency values for each nominal efficiency to take into account this variation. All values in the Motors@Work database are nominal rather than guaranteed minimum efficiencies. 
 
 
 
