@@ -7,7 +7,7 @@ sequence: 1
 tags:
 - my-motors
 ---
-## Synchronous Speed
+## Synchronous Speed (R.P.M.)
 
 Synchronous Speed is the theoretical speed of the motor when no load is placed
 on it (no friction).  The synchronous speed of a motor can often be found on
