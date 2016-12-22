@@ -7,7 +7,7 @@ sequence: 1
 tags:
 - motor-measurement
 ---
-## Motor Measurement: Power Factor
+## Motor Measurement: Power Factor (PF)
 
 Power Factor is the ratio of real power to apparent power for an electrical system.
 
