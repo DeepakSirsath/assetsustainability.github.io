@@ -1,15 +1,15 @@
+---
+title: Motors@Work Fault Detection & Diagnosis
+layout: helpfile
+categories: ['fault-detection-diagnosis']
+permalink: fault-detection-diagnosis/
+sequence: 1
+tags:
+- fault-detection-diagnosis
+---
 
+## **Fault Detection & Diagnosis** 
 
-
-
-
-
-
-
-
-
-
-## Fault Detection & Diagnosis 
 
 **Motor failure classification** : Motor typically fail for the following reasons:
 - Bearings (51%); Potential Causes; Lubrication, mechanical, shaft currents, heat, and contamination (e.g. incompatible greases, overload, misalignment, belt tension & pulley issues, condensation and misapplication)
@@ -19,13 +19,11 @@
 - Shaft/Coupling (2%); Potential Causes; Mechanical or overload
 - Unknown (10%); No Causes determined
 
-
 **Current Unbalance** : Current Unbalance > 10%
 
 **Motor Efficiency Below Design** :  Measured Motor Efficiency < Full Load Efficiency by more than 5%
 
-**Motor Load approaching Service Factor** : Motor Load >= 100% and < Service 
-Factor * 100
+**Motor Load approaching Service Factor** : Motor Load >= 100% and < Service Factor * 100
 
 **Motor Load exceeds Service Factor** : Motor Load >= Service Factor * 100
 
